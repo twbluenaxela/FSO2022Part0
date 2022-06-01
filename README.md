@@ -1,5 +1,6 @@
 # FSO2022Part0
 Contains my submissions for Full Stack Open 2022, Part 0
+Please see the diagrams by copy and pasting the code into this website https://www.websequencediagrams.com/
 
 ## Part 0.4 
 For this assignment I had to make a simple diagram showing different HTTP POST and GET requests from the browser, and what the server gives in response when adding a new note to the https://studies.cs.helsinki.fi/exampleapp example app.
