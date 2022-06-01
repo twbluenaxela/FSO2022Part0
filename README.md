@@ -1,5 +1,6 @@
-# FSO2022Part0
+# Full Stack Open 2022 Part 0 Submissions
 Contains my submissions for Full Stack Open 2022, Part 0
+
 Please see the diagrams by copy and pasting the code into this website https://www.websequencediagrams.com/
 
 ## Part 0.4 
